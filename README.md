@@ -51,7 +51,9 @@ The HeatMap software will be posted in another directory.
 
 1.1.1042 Auto position, computes the offset for the maximum SN signal.
 
-1.2.1090 Stow position, save and restore ControllerDish setup
+1.2.1090 Stow position, save and restore ControllerDish setup.
+
+1.2.1139 Minor changes.
 
 ## Download
 Download the app in [latest release ](https://ea3hmj.net/download/DriverDish.Setup.rar)
