@@ -28,6 +28,10 @@ The HeatMap software will be posted in another directory.
 <img src="https://github.com/ea3hmj/EME/raw/main/img/heatmap.jpg" width="640">
 
 <a name="Versions"></a>
+## Documents
+[DriverDish v1 ESP](https://github.com/EA3HMJ-Tracking-Software-Suite/.github/blob/main/DriverDish%20v1%20ESP.pdf)
+
+[DriverDish v1 ENG](https://github.com/EA3HMJ-Tracking-Software-Suite/.github/blob/main/DriverDish%20v1%20ENG.pdf).
 ## Versions
 1.0.0	Initial version.
 
