@@ -55,12 +55,10 @@ The HeatMap software will be posted in another directory.
 
 1.1.1042 Auto position, computes the offset for the maximum SN signal.
 
-1.2.1090 Stow position, save and restore ControllerDish setup.
-
-1.2.1139 Minor changes.
+[Versions](https://github.com/EA3HMJ-Tracking-Software-Suite/DriverDish/releases)
 
 ## Download
-Download the app in [latest release ](https://ea3hmj.net/download/DriverDish.Setup.rar)
+[Latest versions](https://github.com/EA3HMJ-Tracking-Software-Suite/DriverDish/releases)
 
 ## Disclaimer
 This is an antenna tracking system (software and hardware) designed for amateur use in Earth–Moon–Earth communication (EME), radioastronomy, amateur Deep Sky Network (DSN) and other Space Communication applications where accurate and high precision tracking are required. 
