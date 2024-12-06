@@ -58,7 +58,7 @@ The HeatMap software will be posted in another directory.
 [Versions](https://github.com/EA3HMJ-Tracking-Software-Suite/DriverDish/releases)
 
 ## Download
-[Latest versions](https://github.com/EA3HMJ-Tracking-Software-Suite/DriverDish/releases)
+[Latest versions](https://github.com/EA3HMJ-Tracking-Software-Suite/DriverDish/releases/latest)
 
 ## Disclaimer
 This is an antenna tracking system (software and hardware) designed for amateur use in Earth–Moon–Earth communication (EME), radioastronomy, amateur Deep Sky Network (DSN) and other Space Communication applications where accurate and high precision tracking are required. 
