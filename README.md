@@ -3,6 +3,19 @@ Program that is responsible for requesting data from the ephemeris server and co
 
 [Version and download](#Versions)
 
+## New version 2.0
+
+The new version of DriverDish it is a major change as I have rewritten the whole app.
+I've been testing it for a while and it has passed my tests, things can always go wrong and I'm waiting for your reports.
+This version needs a new firmware (4.x+) in ControllerDish, which is totally new and with a new security philosophy.
+Due to problems with a chip in the controller I have lowered the communication speed to 115200 Bauds instead of 500000 bauds, it doesn't affect the accuracy but it eliminates a problem.
+
+<img src="https://github.com/user-attachments/assets/0d0f3899-75bb-46a2-ae96-c8ad155a590d" width="640">
+<img src="https://github.com/user-attachments/assets/2d88f533-caa3-4422-b017-df7e5e0ea6cb" width="640">
+<img src="https://github.com/user-attachments/assets/82ef3e7b-f930-44a1-81f6-ecfd2d98ce98" width="640">
+
+
+## Description version 1.x
 This is the main program that is responsible for requesting data from the ephemeris server and communicating with ControllerDish.
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/dd10.jpg" width="640">
@@ -54,6 +67,8 @@ The HeatMap software will be posted in another directory.
 1.1.1026 Update ASCOM interface, Radio TAB add IF 7400MHz
 
 1.1.1042 Auto position, computes the offset for the maximum SN signal.
+
+2.0 New program with new features
 
 [Versions](https://github.com/EA3HMJ-Tracking-Software-Suite/DriverDish/releases)
 
